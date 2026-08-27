@@ -8,11 +8,7 @@ export default function Home() {
 <label htmlFor="address"></label>
 <input type="text" name="address" placeholder="enter you adress"/>
 <button>sumit</button>
-
-
-
         </form>
-
     </div>
   )
 }

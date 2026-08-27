@@ -9,5 +9,4 @@ function layout({children}) {
     </html>
   )
 }
-
 export default layout
