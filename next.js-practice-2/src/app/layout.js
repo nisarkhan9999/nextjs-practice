@@ -1,5 +1,4 @@
 import React from 'react'
-
 function layout({children}) {
   return (
     <html lang="en">
@@ -9,4 +8,5 @@ function layout({children}) {
     </html>
   )
 }
+
 export default layout
